@@ -29,6 +29,7 @@
   "commitplease": {
     "style": "angular",
     "nohook": true
-  }
+  },
+   "license": "UNLICENSED"
   }
 }
